@@ -9,7 +9,7 @@ const Footer = () => {
         <p>&copy;2025 Jobhunt Pvt Ltd. All rights reserved</p>
       </div>
       <div className="right flex gap-4">
-        <a href="http://localhost:5173/" target="_blank"><Twitter/></a>
+        <a href="https://new-job-portal-z7c4.onrender.com" target="_blank"><Twitter/></a>
         <a href="https://github.com/okroshan4u" target="_blank"><Github/></a>
         <a href="https://linkedin.com/in/roshan-kumar-ram-512457246/" target="_blank"><Linkedin/></a>
       </div>
