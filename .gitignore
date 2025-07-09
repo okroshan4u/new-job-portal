@@ -1,0 +1,15 @@
+# dependencies
+node_modules
+.env
+
+
+
+# logs
+logs
+*.log
+
+# system
+.DS_Store
+
+# optional
+*.env.local
